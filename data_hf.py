@@ -12,7 +12,7 @@ from datasets import load_dataset
 import random
 
 random.seed(42)
-N = 20  # samples per industry
+N = 50  # samples per industry
 
 
 # ── E-COMMERCE ────────────────────────────────────────────────────────────────
